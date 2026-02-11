@@ -1,3 +1,5 @@
+**This crate has been transferred to the duat monorepo, as such, this repository has been archived**
+
 # duat-treesitter ![License: AGPL-3.0-or-later](https://img.shields.io/badge/license-AGPL--3.0--or--later-blue) [![duat-treesitter on crates.io](https://img.shields.io/crates/v/duat-treesitter)](https://crates.io/crates/duat-treesitter) [![duat-treesitter on docs.rs](https://docs.rs/duat-treesitter/badge.svg)](https://docs.rs/duat-treesitter)
 
 A [tree-sitter][__link0] implementation for Duat
